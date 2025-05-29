@@ -1,15 +1,3 @@
-suspicious_powershell_download_execution:
-  alerting: true
-  archive_time: null
-  archived: false
-  create_time: null
-  enabled: true
-  id: null
-  resource_name: null
-  revision_create_time: null
-  revision_id: null
-  run_frequency: LIVE
-  type: SINGLE_EVENT
 Chrome_Browser_Safe_Browsing_User_Bypass:
   alerting: true
   archive_time: null
@@ -42,8 +30,8 @@ ag_ioc_sha256_hash_vt_basic:
   enabled: false
   id: ru_5093731f-384d-4bed-96e9-6b4621cd0a53
   resource_name: projects/304199104626/locations/australia-southeast1/instances/bc592657-8692-4184-a40d-6c12ff58a350/rules/ru_5093731f-384d-4bed-96e9-6b4621cd0a53
-  revision_create_time: '2025-04-18T00:42:43.778495Z'
-  revision_id: v_1744936963_778495000
+  revision_create_time: '2025-05-28T13:03:34.300399Z'
+  revision_id: v_1748437414_300399000
   run_frequency: LIVE
   type: MULTI_EVENT
 aws_account_leaving_or_removed_from_organization:
@@ -1858,6 +1846,18 @@ suspicious_download_office:
   revision_id: v_1744936965_307887000
   run_frequency: LIVE
   type: MULTI_EVENT
+suspicious_powershell_download_execution:
+  alerting: true
+  archive_time: null
+  archived: false
+  create_time: '2025-05-29T02:13:59.902623Z'
+  enabled: true
+  id: ru_226b3715-ad39-4490-b9ad-a61eba2e17dd
+  resource_name: projects/304199104626/locations/australia-southeast1/instances/bc592657-8692-4184-a40d-6c12ff58a350/rules/ru_226b3715-ad39-4490-b9ad-a61eba2e17dd
+  revision_create_time: '2025-05-29T02:13:59.902623Z'
+  revision_id: v_1748484839_902623000
+  run_frequency: LIVE
+  type: SINGLE_EVENT
 suspicious_unusual_location_lnk_file:
   alerting: false
   archive_time: null
