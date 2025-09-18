@@ -10,14 +10,14 @@ command_line_exclusions:
     key_column: null
     mapped_column_path: null
     original_column: target_command_line
-  create_time: '2025-08-13T12:06:02.425439Z'
+  create_time: '2025-09-18T06:49:26.874973Z'
   description: null
-  resource_name: projects/sharp-bulwark-412718/locations/us/instances/6b9f77b6-1fe3-40ad-8746-7a26dc366ac2/dataTables/command_line_exclusions
+  resource_name: projects/sumitpatel-lab-1/locations/us/instances/2ee28a72-7a79-4197-acf9-7a731a89953c/dataTables/command_line_exclusions
   row_time_to_live: null
   rule_associations_count: null
   rules: null
-  update_time: '2025-08-13T12:11:04.639358Z'
-  uuid: 72b9c7403f764db1a09beadf7664978f
+  update_time: '2025-09-18T06:49:26.874973Z'
+  uuid: 1cb6e279b35b4b0a8b748bd99690a996
 data_table_ws_subsidiary_users:
   columns:
   - column_index: 0
@@ -45,14 +45,14 @@ data_table_ws_subsidiary_users:
     key_column: null
     mapped_column_path: entity.user.hire_date.seconds
     original_column: start_date
-  create_time: '2025-08-13T12:39:55.266049Z'
+  create_time: '2025-09-18T06:49:30.463774Z'
   description: null
-  resource_name: projects/sharp-bulwark-412718/locations/us/instances/6b9f77b6-1fe3-40ad-8746-7a26dc366ac2/dataTables/data_table_ws_subsidiary_users
+  resource_name: projects/sumitpatel-lab-1/locations/us/instances/2ee28a72-7a79-4197-acf9-7a731a89953c/dataTables/data_table_ws_subsidiary_users
   row_time_to_live: null
   rule_associations_count: null
   rules: null
-  update_time: '2025-08-13T12:44:57.508341Z'
-  uuid: 31d4c890f5e64c7c821d005595f966b3
+  update_time: '2025-09-18T06:49:30.463774Z'
+  uuid: a360fbcfbeaf47a89493c3b055c9d586
 newtable:
   columns:
   - column_index: 0
@@ -65,11 +65,11 @@ newtable:
     key_column: null
     mapped_column_path: null
     original_column: b
-  create_time: '2025-06-05T08:18:01.558478Z'
+  create_time: '2025-09-18T06:49:31.526765Z'
   description: null
-  resource_name: projects/sharp-bulwark-412718/locations/us/instances/6b9f77b6-1fe3-40ad-8746-7a26dc366ac2/dataTables/newtable
+  resource_name: projects/sumitpatel-lab-1/locations/us/instances/2ee28a72-7a79-4197-acf9-7a731a89953c/dataTables/newtable
   row_time_to_live: null
   rule_associations_count: null
   rules: null
-  update_time: '2025-06-05T08:18:01.558478Z'
-  uuid: 4292eb98ded44a5ca34b405205d03262
+  update_time: '2025-09-18T06:49:31.526765Z'
+  uuid: 40714b4bd65347f2aee465cb7eb3d853

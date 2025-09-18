@@ -90,8 +90,8 @@ aws_delete_vpc_flow_logs:
   enabled: false
   id: ru_f135c06c-e801-4674-b003-6d70e9fa5ed6
   resource_name: projects/59910598257/locations/us/instances/2ee28a72-7a79-4197-acf9-7a731a89953c/rules/ru_f135c06c-e801-4674-b003-6d70e9fa5ed6
-  revision_create_time: '2025-08-11T06:31:07.714687Z'
-  revision_id: v_1754893867_714687000
+  revision_create_time: '2025-09-18T06:49:36.476287Z'
+  revision_id: v_1758178176_476287000
   run_frequency: HOURLY
   type: SINGLE_EVENT
 aws_ec2_ami_or_snapshot_shared_publicly:
