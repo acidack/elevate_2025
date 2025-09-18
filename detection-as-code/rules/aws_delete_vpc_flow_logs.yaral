@@ -1,7 +1,7 @@
 rule aws_delete_vpc_flow_logs {
 
   meta:
-    author = "Google Cloud Security"
+    author = "Google Cloud Security "
     description = "Detects when AWS VPC FLow Logs are deleted."
     mitre_attack_tactic = "Defense Evasion"
     mitre_attack_technique = "Impair Defenses: Disable Cloud Logs"
